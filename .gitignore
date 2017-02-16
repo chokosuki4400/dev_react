@@ -69,5 +69,8 @@ Temporary Items
 
 /simple-vccw-env-master
 /design
-blog.sublime-project
+dev_react.sublime-project
 .DS_Store
+
+node_modules
+dest
